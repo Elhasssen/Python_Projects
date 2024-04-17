@@ -14,7 +14,7 @@
 
 # usign the command (git add . --dry-run --verbose ) for a summary of what is included in the commit 
 
-# we can delete a f ile from the commit using (git rm --cashed filename.file) and we can add it later using the command (git add filename)
+# we can delete a f ile staed to  the commit using (git rm --cashed filename.file) and we can add it later using the command (git add filename)
 
 # we finally commit to the local repository using the command 'git commit -m "Message of the commit"
 
